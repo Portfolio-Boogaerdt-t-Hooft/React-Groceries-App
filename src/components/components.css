@@ -1,0 +1,25 @@
+.item {
+    background:grey;
+}
+
+/* .grocerylist {
+    padding: 20px;
+} */
+
+.item {
+    padding: 15px;
+}
+.shoppingcart .item {
+    background: lightblue;
+  }
+  
+  .shoppingcart .item:nth-child(even) {
+    background: lightcyan;
+  }
+  
+  .grocerylist .item {
+    background: lightpink;
+  }
+  .grocerylist .item:nth-child(odd) {
+    background: lightcoral;
+  }
